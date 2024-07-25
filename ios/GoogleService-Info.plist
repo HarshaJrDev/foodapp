@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyDDBEFtoKIe-cOao_gbRug1MJL54d1QLck</string>
+	<string>AIzaSyAGiYQ6MtbrRyWFLHfvlCKn8F-MaGU8P-s</string>
 	<key>GCM_SENDER_ID</key>
-	<string>67745629090</string>
+	<string>514329913447</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.Project.eatmuch</string>
 	<key>PROJECT_ID</key>
-	<string>foodapp-b848b</string>
+	<string>eatmuch-9ead6</string>
 	<key>STORAGE_BUCKET</key>
-	<string>foodapp-b848b.appspot.com</string>
+	<string>eatmuch-9ead6.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:67745629090:ios:624256b02decb7e73d28fb</string>
+	<string>1:514329913447:ios:caa8f77d614c3fe0b54cc2</string>
 </dict>
 </plist>
